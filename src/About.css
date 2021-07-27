@@ -1,0 +1,10 @@
+.aboutContainer{
+    background-color: rgba(0, 0, 0, 0.904);
+    color: white;
+    margin-top: 50px;
+    width: 70% !important;
+}
+
+.colText{
+    padding-left: 50px;
+}

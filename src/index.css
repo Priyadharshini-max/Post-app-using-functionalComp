@@ -1,13 +1,61 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.container
+{
+    margin-left: 130px;
+    margin-right: 40px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.Col2
+{
+  padding-bottom: 20px;
+  padding-left: 190px;
+}
+
+body
+{
+    font-family: 'Bree Serif', serif !important;
+}
+
+h1
+{
+   padding-left: 30px;  
+}
+
+.PostContainer
+{
+ margin-top: 30px;
+}
+
+.NotfoundContainer
+{
+    margin-left: 35% !important;
+    margin-top: 15%;
+}
+
+.userid{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.title{
+    margin-top: 10px;
+    margin-left: 46px; 
+}
+
+.body{
+    margin-top: 10px;
+    margin-left: 42px;
+    margin-right: 10px; 
+    margin-bottom: 30px;  
+}
+
+.username{
+    margin-left: 5px;
+}
+label{
+    font-weight: 600;
+}
+
+.getusertable{
+    margin-top: 150px;
+    margin-left: 430px;
 }
