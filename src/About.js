@@ -7,6 +7,7 @@ export default function About() {
     const history = useHistory();
     return (
         <>
+            {/* GoBack icon */}
             <i onClick={history.goBack} style={{ fontSize: "30px" }} class="fas fa-arrow-left"></i>
             <Container className="aboutContainer">
                 <table>
